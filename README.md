@@ -1,4 +1,4 @@
-# CV_Jesus_Aguilera_Dev
+# CV Jesus Aguilera Dev
 CV Web en HTML, CSS e interacciones de usuario aplicando la teoría de BUENAS PRÁCTICAS en JavaScript, donde además de mostrar mis datos curriculares, adicionó algunos artilugios tales como:
 
 - Maquetación RESPONSIVE para teléfono, tablet y pc.
